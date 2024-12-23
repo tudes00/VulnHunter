@@ -1,0 +1,36 @@
+[
+    {
+        "name": "language",
+        "options": [
+            "fr",
+            "en"
+        ],
+        "current": "en",
+        "description": "language_desc"
+    },
+    {
+        "name": "check_updt_time",
+        "options": [
+            "yes",
+            "no"
+        ],
+        "current": "yes",
+        "description": "check_updt_time_desc"
+    },
+    {
+        "name": "check_updt",
+        "options": [
+            null
+        ],
+        "current": "select_to_check",
+        "description": "check_updt_desc"
+    },
+    {
+        "name": "exit",
+        "options": [
+            null
+        ],
+        "current": "",
+        "description": "exit_desc"
+    }
+]
