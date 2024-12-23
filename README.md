@@ -1,6 +1,7 @@
-# 🇬🇧 English
+# VulnHunter | Version 1.0.0
 
-## VulnHunter | Version 1.0.0
+## 🇬🇧 English
+
 VulnHunter, the best tool for automating vulnerability scanning and penetration testing! | In development
 
 ## Install
@@ -9,9 +10,8 @@ Simply download this repo and launch `VulnHunter_linux.sh` if you are on Linux o
 For now, working only on Linux and Windows.
 ---
 
-# 🇫🇷 Français
+## 🇫🇷 Français
 
-## VulnHunter | Version 1.0.0
 VulnHunter, le meilleur outil pour automatiser les analyses de vulnérabilité et les tests de pénétration ! | En développement
 
 ## Installation
