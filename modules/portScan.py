@@ -121,8 +121,8 @@ def ask_for_command():
     save_result = input(f"{YELLOW}Do you want to save the result to a file? (yes/no): {RESET}").strip().lower()
     
     output_file = None
+    convert = False
     if save_result in ['yes', 'y']:
-        convert = False
         output_file = input(f"{CYAN}Enter the filename to save the result (e.g., 'scan_results' without .txt!): {RESET}").strip()
         if output_file == "":
             output_file = targets[0]

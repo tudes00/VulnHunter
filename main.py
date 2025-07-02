@@ -83,7 +83,7 @@ def main():
         clear_screen()
 
         os_name = platform.system()
-        if not os_name == "Linux" and os_name == "Windows":
+        if not os_name == "Linux" and not os_name == "Windows":
                 print(f"{RED}Your OS is not supported. Contact me to help me improve this project! {RESET}")
                 input(f"{BLUE}Enter to exit")
                 sys.exit()
