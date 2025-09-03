@@ -1,4 +1,4 @@
-## VulnHunter | Version 1.0.0 (Project paused...)
+## VulnHunter | Version 1.0.0 (I am working on v2, rebuilding everything)
 
 VulnHunter, tool for automating vulnerability scanning and penetration testing! 🚀 | In development 🔧
 
